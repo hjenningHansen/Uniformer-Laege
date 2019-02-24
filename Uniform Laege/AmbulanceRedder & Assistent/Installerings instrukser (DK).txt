@@ -1,0 +1,15 @@
+Tak for installeringen!
+
+Installerings instrukser på dansk
+
+Placer alle s_m_m_paramedic_01 filer i følgende sti:
+
+Open IV - Mods - x64e.rpf - models - cdimages - componentpeds_s_m_m.rpf
+
+
+Efter disse instrukser skulle uniformen meget gerne være installeret.
+
+
+>>CREDITS<<
+
+Skin & Design lavet af YG Mods

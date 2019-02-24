@@ -1,0 +1,16 @@
+Thanks for installing!
+
+Installation instructions in English
+
+Place all s_m_m_paramedic_01 files in following path:
+
+Open IV - Mods - x64e.rpf - models - cdimages - componentpeds_s_m_m.rpf
+
+
+After these instructions the uniform should now have been installed.
+
+
+>>CREDITS<<
+
+
+Skin & Design made by YG Mods
